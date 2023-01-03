@@ -3,7 +3,7 @@
   <div>{{fullName}}</div>
   <Icon type="wran" />
   <Icon type="zhenque" />
-  <Pager @changePage="handlerChangePage" />
+  <p>qiu-dev</p>
 </template>
 
 <script>
